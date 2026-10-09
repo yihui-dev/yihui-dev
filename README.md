@@ -16,19 +16,17 @@ I've spent 10 years building for the web. Today I work at the intersection of AI
 
 ## Products & experiments
 
+- 🎨 **[Skillry](https://skillry.dev/)** — An AI skill marketplace with an eye for design. Discover, preview, and install practical Agent Skills for creating presentations, websites, videos, and images.
+
 - 🎞️ **[MkBoard](https://mkboard.app/)** — A desktop storyboard agent that turns scripts into editable shot plans and generated B-roll assets.
 - ✨ **[MkAnime](https://mkanime.ai/)** — An all-in-one AI anime studio for scripts, storyboards, characters, dubbing, and export.
 - 🧑‍💻 **[Happy AI Coding](https://happyaicoding.com/)** — Practical, project-based AI coding courses for people who want to turn ideas into working products.
 
 ## Public projects
 
-- 👕 **[codebuddy-aifit-demo](https://github.com/yihui-dev/codebuddy-aifit-demo)** — An AI virtual try-on WeChat Mini Program demo built with TDesign and Tencent CloudBase.
-- 🧱 **[vuepress-element-doc](https://github.com/yihui-dev/vuepress-element-doc)** — A VuePress example for building component-library documentation.
-
-### Earlier developer tutorials
-
-- 🧪 **[Vue-Testing-Demo](https://github.com/yihui-dev/Vue-Testing-Demo)** — A hands-on Vue unit-testing example using Mocha, Karma, Vue Test Utils, and Chai.
-- 🗃️ **[Vuex-Demo](https://github.com/yihui-dev/Vuex-Demo)** — A step-by-step guide to Vuex state, getters, mutations, actions, and modules.
+- 🎬 **[ChatCut Skills](https://github.com/yihui-dev/yh-chatcut-skills)** — Open-source video skills for ChatCut editing and timestamp-accurate SRT generation.
+- 🎥 **[awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** — A collection of videos made with Claude Opus 5.5 and the prompts behind them, with live remakes on Skillry.
+- ✨ **[awesome-fable5-5-videos](https://github.com/yihui-dev/awesome-fable5-5-videos)** — A collection of videos made with Claude Fable 5.5, with creator-shared prompts and links to the original posts.
 
 ## How I work
 
